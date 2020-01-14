@@ -9,5 +9,4 @@ while count > 0:
 		break
 	else:
 		print('Incorrect password! You still have', count,'chances')
-		
-print('You try too many wrong times!')
+
