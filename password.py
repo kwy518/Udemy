@@ -8,5 +8,8 @@ while count > 0:
 		print('Login successful!')
 		break
 	else:
-		print('Incorrect password! You still have', count,'chances')
+		if count > 0:
+			print('Incorrect password! You still have', count,'chances')
+		else:
+			print('You try too many times! Bye~')
 
