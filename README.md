@@ -1,1 +1,1 @@
-# This resiportory is for some practices from Udemy course of Python.
+# Some practices from Udemy course of Python.
